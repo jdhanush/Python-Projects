@@ -1,3 +1,0 @@
-There is nothing in this file.
-
-Only meant to be demonstrating the copying operation
